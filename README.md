@@ -1,2 +1,3 @@
 # hello-world
-initial GitHub walk-thru
+Initial GitHub walk-thru.
+Checking out some files on GitHub.
